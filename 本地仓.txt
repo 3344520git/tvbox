@@ -18,10 +18,6 @@
 
 { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/香雅情/api.json", "name": "香雅情" },
 
-{ "url": "https://clun.top/box.json", "name": "雨呢自用" },
-
-{ "url": "https://clun.top/aa.json", "name": "张佬" },
-
-{ "url": "https://clun.top/jsm.json", "name": "PG" },
+{ "url": "https://zoe.im/tvbox/tvbox.json", "name": "雨呢自用" },
 
 { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/OK/api.json", "name": "OK" }]}
