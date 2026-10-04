@@ -1,8 +1,4 @@
-{ "urls": [{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
-
-{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json", "name": "小米" },
-
-{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "urls": [{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/肥猫/api.json", "name": "肥猫" },
 
 { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/王二小/api.json", "name": "王二小" },
 
@@ -22,8 +18,10 @@
 
 { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/香雅情/api.json", "name": "香雅情" },
 
-{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://clun.top/box.json", "name": "雨呢自用" },
 
-{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" },
+{ "url": "https://clun.top/aa.json", "name": "张佬" },
+
+{ "url": "https://clun.top/jsm.json", "name": "PG" },
 
 { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/OK/api.json", "name": "OK" }]}
